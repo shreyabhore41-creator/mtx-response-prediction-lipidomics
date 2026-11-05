@@ -1,4 +1,5 @@
 # mtx-response-prediction-lipidomics
+Machine learning-based prediction of methotrexate response in rheumatoid arthritis using baseline serum lipidomics, with model evaluation, feature selection, SHAP analysis, and nested cross-validation.
 # Machine Learning-Based Prediction of Methotrexate Response Using Baseline Serum Lipidomics in Rheumatoid Arthritis
 
 ## Project Overview
